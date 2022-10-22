@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "molecular-formula": "^1.1.5",
+    "molecules.js": "^1.1.0",
+    "three": "^0.145.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.3"
+  }
+}
